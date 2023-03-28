@@ -20,11 +20,11 @@ const RESOURCES = {
 "icons/android-chrome-192x192.png": "e31cfafc465ea589d243e692c9f93253",
 "icons/android-chrome-512x512.png": "30b1b067a516c396e50e18b37c90f2dc",
 "icons/apple-touch-icon.png": "1bbcfbd8ce3e7e0cc4fb444976fbf3d2",
-"index.html": "67244754fff2a056d678239cb0391e31",
-"/": "67244754fff2a056d678239cb0391e31",
+"index.html": "778e012be9a8ce7d8288644885e97292",
+"/": "778e012be9a8ce7d8288644885e97292",
 "logo.png": "e31cfafc465ea589d243e692c9f93253",
-"main.dart.js": "7dca563d3421dc5b02c2ab2ef74aaeee",
-"manifest.json": "34a3e1fc730f374c2161976c22f94731",
+"main.dart.js": "b8dbc7f87317e4c952e8dc683a136ccc",
+"manifest.json": "294c061416b8e7b5ca80a4ca9e2957be",
 "version.json": "1ef4df206baed7c501b1c4829a1b0ec6"
 };
 

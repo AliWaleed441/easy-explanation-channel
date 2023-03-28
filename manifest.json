@@ -1,4 +1,5 @@
 {
+
     "name": "channelyoutube",
     "short_name": "channelyoutube",
     "start_url": ".",
@@ -8,6 +9,7 @@
     "description": "A new Flutter project.",
     "orientation": "portrait-primary",
     "prefer_related_applications": false,
+
     "icons": [
         {
             "src": "icons/android-chrome-192x192.png",
