@@ -34657,10 +34657,10 @@ A.a53.prototype={
 $0(){return this.a.dV(u.B)},
 $S:0}
 A.a54.prototype={
-$0(){return this.a.mH("files/1.pdf")},
+$0(){return this.a.mH("assets/files/1.pdf")},
 $S:121}
 A.a55.prototype={
-$0(){return this.a.mH("files/2.pdf")},
+$0(){return this.a.mH("assets/files/2.pdf")},
 $S:121}
 A.CI.prototype={
 os(a){var s=this.b[a]
